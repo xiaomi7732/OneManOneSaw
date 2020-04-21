@@ -6,6 +6,7 @@
 * Circular saw
 * Orbital sander
 * Chisels
+* Pocket hole jig
 
 ## Modeling
 
