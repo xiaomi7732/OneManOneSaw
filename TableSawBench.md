@@ -15,8 +15,6 @@ I started with 3D modeling it with Fusion 360 ([View & download the model](https
 
 ![Table Saw 3D model](images/TableSawBench-3DModel.png)
 
-<iframe src="https://hotmail88133.autodesk360.com/shares/public/SH56a43QTfd62c1cd968c40961f5852ab4bd?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 _The bench is going to be about 2' by 30". It actually was **way** bigger when I started to think about it. Refer to [Story](#Story) if you interested. :-)_
 
 Vertical stands most are 2x4, horizontal bars are 2x3.
