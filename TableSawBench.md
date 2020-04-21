@@ -13,7 +13,7 @@ This is my second project and it is in progress.
 
 I started with 3D modeling it with Fusion 360 ([View & download the model](https://a360.co/2VrNPQE)):
 
-![Table Saw 3D model](images/TableSawBench-3DModel.png)
+[![Table Saw 3D model](images/TableSawBench-3DModel.png)](https://a360.co/2VrNPQE)
 
 _The bench is going to be about 2' by 30". It actually was **way** bigger when I started to think about it. Refer to [Story](#Story) if you interested. :-)_
 
