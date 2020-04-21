@@ -41,6 +41,6 @@ When I started to think about the bench, I was trying to make it multi-functiona
 
 ![Huge table saw bench](images/TableSawBench-3DModel-Huge.png)
 
-I brought the model to a WeChat group (dingsworkshop) and asked for opinions, that's when people start to noticing that the table is huge and it is not easy to move around. And I start to ask myself - err... why do I need a huge table? I could have had 2 or 3 smaller tables to reach the same goal. It would be much easier to work in a tight space.
+I brought the model to a WeChat group (dingsworkshop) and asked for opinions, that's when people start to noticing that the table is huge and it is not easy to move around and it would probably be too heavy and I am suggested to have multiple smaller tables instead. Err... why do I need a huge table? Why not 2 or 3 smaller ones to reach the same goal? It would be much easier to work in a tight space.
 
-After I shrink the size of the table (well, in the model), I think I am way satisfied with the current size than the stupid gigantic one. I am so glad that I brought this to a group of people with experience than just do it. :-)
+After I shrink the size of the table (well, in the 3d model), I think I am way satisfied with the current size than the stupid gigantic one. I am so glad that I brought this to a group of people with experience than just do it. :-)
