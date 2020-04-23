@@ -19,3 +19,5 @@ Measures looks here:
 ![Shoe rack measure](images/ShoeRack-Draw.png)
 
 Racks are spray painted black, boards are treated with Danish Oil in original color.
+
+[Go back to home](README.md) for other projects.
