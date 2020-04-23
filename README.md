@@ -6,7 +6,7 @@ I am trying to use this repository to record my wood-working projects.
 
 * [Table Saw Bench](./TableSawBench.md)
 
-    [![Table Saw 3D model](images/TableSawBench-3DModel.png)](https://a360.co/2VrNPQE)
+    [<img src='images/TableSawBench-3DModel.png' width='300' />](https://a360.co/2VrNPQE)
 
     _Tips: `CTRL + click` on the picture above to open the live 3D model in your browser._
 

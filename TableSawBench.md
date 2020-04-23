@@ -14,7 +14,7 @@ This is my second project and it is in progress.
 
 I started with 3D modeling it with Fusion 360 ([View & download the model](https://a360.co/2VrNPQE)):
 
-[![Table Saw 3D model](images/TableSawBench-3DModel.png)](https://a360.co/2VrNPQE)
+[<img src='images/TableSawBench-3DModel.png' width='300' />](https://a360.co/2VrNPQE)
 
 _The bench is going to be about 2' by 30". It actually was **way** bigger when I started to think about it. Refer to [Story](#Story) if you interested. :-)_
 
@@ -26,7 +26,7 @@ Vertical stands most are 2x4, horizontal bars are 2x3.
 
   ![Cut wood](images/TableSawBench-CutTheWood.jpg)
 
-    Since the table saw bench hasn't been built yet, I'd have to use circular saw for the long ones.
+    Since the table saw bench hasn't been built yet, I had to use circular saw for the long ones.
 
 * Rabbet Join
 // TODO: Add details.
