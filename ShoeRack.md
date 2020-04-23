@@ -5,6 +5,9 @@ This is my first project.
 Here's how it looks like:
 
 <img src='images/ShoeRack-WithDog.jpg' width='240' alt='Finished shoe rack with dog on top'>
+
+Note: the dog is not part of the shoe rack :-).
+
 <img src='images/ShoeRack-Done.jpg' width='345' alt='Finished shoe rack' />
 
 I got the idea from a YouTube video.
