@@ -28,8 +28,25 @@ Vertical stands most are 2x4, horizontal bars are 2x3.
 
     Since the table saw bench hasn't been built yet, I had to use circular saw for the long ones.
 
-* Rabbet Join
-// TODO: Add details.
+* Rabbet Join (using a table saw)
+
+  1. Set the blade height and then cut the multiple lines like this:
+
+      <img src='images/TableSawBench-CuttingRabbetJoin01.jpg' width='350' />
+
+  1. Hammer down the chips. It is not as difficult as it looks like.
+
+      <img src='images/TableSawBench-CuttingRabbetJoin02.jpg' width='350' />
+
+  1. Sand away the rough surface overs:
+
+      <img src='images/TableSawBench-CuttingRabbetJoin03.jpg' width='1024' />
+
+  1. I am pretty satisfied with the final result:
+
+      <img src='images/TableSawBench-CuttingRabbetJoin04.jpg' width='350' />
+
+      _I used 40 grits paper with orbital sander and get the work done in a few seconds._
 
 * Table Top
 // TODO: How do I fasten the table top?
