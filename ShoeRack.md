@@ -16,7 +16,7 @@ Here's how it looks like on 3D model. CTRL+Click on the image to play with the l
 
 [<img src='images/ShoeRack-3DModel.png' width='350' alt='Shoe Rack 3D Model' />](https://a360.co/3cDREb6)
 
-Measures looks here:
+Measures here:
 
 ![Shoe rack measure](images/ShoeRack-Draw.png)
 
