@@ -20,6 +20,10 @@ _The bench is going to be about 2' by 30". It actually was **way** bigger when I
 
 Vertical stands most are 2x4, horizontal bars are 2x3.
 
+Click the picture below for drawing book with breakdown and measurements:
+
+  [<img src='images/TableSawBench-Drawing.png' width='320'>](pdfs/TableSawBenchDrawingv7.pdf)
+
 ## Build
 
 * Cut the wood.
@@ -48,8 +52,17 @@ Vertical stands most are 2x4, horizontal bars are 2x3.
 
       _I used 40 grits paper with orbital sander and get the work done in a few seconds._
 
-* Table Top
-// TODO: How do I fasten the table top?
+* Bench Top
+
+  * Cut
+
+    Since the bench was not ready for use yet, I cut the table top with a circular saw + a tracking jig.
+
+    <img src='images/TableSawBench-TableTops01.jpg' width='350'>
+
+    The tracking jig really made things simple because I can see where the blade is going to be, and also it will be pretty straight as long as the saw is pushed toward the track.
+
+    <img src='images/TableSawBench-TableTops02.jpg' width='380'>
 
 ## Finish
 
@@ -57,7 +70,13 @@ Vertical stands most are 2x4, horizontal bars are 2x3.
 
 ## Cut list
 
-// TOOD: Attach cut list
+| Item     | Count |
+|----------|-------|
+| 2x4x8    | 3     |
+| 2x3x8    | 3     |
+| 2x2x8    | 1     |
+| 1"x2'x4' | 2     |
+| Swivel   | 4     |
 
 ## Story
 
