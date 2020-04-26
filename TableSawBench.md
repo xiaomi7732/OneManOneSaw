@@ -22,7 +22,7 @@ Vertical stands most are 2x4, horizontal bars are 2x3.
 
 Click the picture below for drawing book with breakdown and measurements:
 
-  [<img src='images/TableSawBench-Drawing.png' width='320'>](pdfs/TableSawBenchDrawingv7.pdf)
+  [<img src='images/TableSawBench-Drawing.png' width='240'>](pdfs/TableSawBenchDrawingv7.pdf)
 
 ## Build
 
@@ -70,13 +70,20 @@ Click the picture below for drawing book with breakdown and measurements:
 
 ## Cut list
 
-| Item     | Count |
-|----------|-------|
-| 2x4x8    | 3     |
-| 2x3x8    | 3     |
-| 2x2x8    | 1     |
-| 1"x2'x4' | 2     |
-| Swivel   | 4     |
+* Lumbers
+
+  | Item     | Count |
+  |----------|-------|
+  | 2x4x8    | 3     |
+  | 2x3x8    | 3     |
+  | 2x2x8    | 1     |
+  | 1"x2'x4' | 2     |
+
+* Other parts:
+
+  | Item     | Count |
+  | ---------| ----- |
+  |  Swivel  | 4     |
 
 ## Story
 
