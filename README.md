@@ -13,3 +13,7 @@ I am trying to use this repository to record my wood-working projects.
 ## Finished project
 
 * [My first woodwork project - Shoe rack](./ShoeRack.md)
+
+## Lesson Learnt
+
+* [Set proper clutch for the power drill](./LLPowerDrillClutch.md)
