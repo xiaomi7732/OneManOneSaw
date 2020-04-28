@@ -6,14 +6,16 @@ I am trying to use this repository to record my wood-working projects.
 
 * [Table Saw Bench](./TableSawBench.md)
 
-    [<img src='images/TableSawBench-3DModel.png' width='300' />](https://a360.co/2VrNPQE)
+    <img src='images/TableSawBench-Done.png' width='300' />
 
-    _Tips: `CTRL + click` on the picture above to open the live 3D model in your browser._
+## Previous project
 
-## Finished project
+Project | Preview
+-- | --
+[My first woodwork project - Shoe rack](./ShoeRack.md)|[<img src='images/ShoeRack-WithDog.jpg' width='48' height='48' />](./ShoeRack.md)
 
-* [My first woodwork project - Shoe rack](./ShoeRack.md)
+## Lesson Learned
 
-## Lesson Learnt
-
-* [Set proper clutch for the power drill](./LLPowerDrillClutch.md)
+Topic | Preview
+-- | --
+[Set proper clutch for the power drill](./LLPowerDrillClutch.md) | <img src='images/LL-PowerDrillClutch02.jpg' width='48' height='48' />

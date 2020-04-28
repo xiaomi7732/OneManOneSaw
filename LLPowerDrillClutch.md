@@ -1,4 +1,4 @@
-# [Lesson Learnt] Set proper clutch for the power drill
+# [Lesson Learned] Set proper clutch for the power drill
 
 <img src='images/LL-PowerDrillClutch01.jpg' width='150'>
 

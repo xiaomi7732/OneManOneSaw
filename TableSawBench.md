@@ -8,9 +8,9 @@
 * Chisels
 * Pocket hole jig
 
-## Modeling
+## Overview
 
-This is my second project and it is in progress.
+This is my second project.
 
 I started with 3D modeling it with Fusion 360 ([View & download the model](https://a360.co/2VrNPQE)):
 
@@ -20,9 +20,15 @@ _The bench is going to be about 2' by 30". It actually was **way** bigger when I
 
 Vertical stands most are 2x4, horizontal bars are 2x3.
 
+It is built like this:
+
+<img src='images/TableSawBench-Done.png' width='512' />
+
+
 Click the picture below for drawing book with breakdown and measurements:
 
   [<img src='images/TableSawBench-Drawing.png' width='240'>](pdfs/TableSawBenchDrawingv7.pdf)
+
 
 ## Build
 
