@@ -101,7 +101,7 @@ I brought the model to a WeChat group (dingsworkshop) and asked for opinions, th
 
 After I shrink the size of the table (well, in the 3d model), I think I am way satisfied with the current size than the stupid gigantic one. I am so glad that I brought this to a group of people with experience than just do it. :-)
 
-Go back to [modeling](#Modeling).
+Go back to [modeling](#Overview).
 
 ## More projects
 
