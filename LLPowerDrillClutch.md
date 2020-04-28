@@ -5,7 +5,7 @@
 ## What I have learned
 
 * Properly setting up the clutch on my power drill
-* Do **NOT** time the stopping point, let the drill do
+* Do **NOT** try to time the stopping point, let the drill do
 
 ## The issue
 
