@@ -1,13 +1,13 @@
-# OneManOneSaw
+# My Wood Projects
 
 I am trying to use this repository to record my wood-working projects.
 
 ## Current Project
 
-* [Cube Bookcase](./CubeBookcase.md)
-  * [3D Model](https://a360.co/35g3FB4)
+* [Cube Bookcase](./CubeBookcase.md) - [Details](./CubeBookcase.md)
+  * 3D Model
 
-    <img src='images/CubeBookcaseV2.png' width='250' />
+    [<img src='images/CubeBookcaseV2.png' width='250' />](https://a360.co/35g3FB4)
 
 ## Previous project
 

@@ -2,13 +2,13 @@
 
 ## Overview
 
-[Last Update: 5/13/2020]
+[Last Update: 5/16/2020]
 
 This project is in progress. Got [the 3D model](https://a360.co/35g3FB4) drafted. Here's the render:
 
 <img src='images/CubeBookcaseV2.png' width='250' />
 
-I plan to use 1/2" sande plywood as the material.
+I plan to use 1/2" sande plywood to build it.
 
 ## Build Plan
 
@@ -24,4 +24,20 @@ At this point, I am expecting a lot of cross cuts. It is probably worth the time
 
   <img src='./images/CubeBookcaseV2-XCut-Sled.jpg' width='250' />
 
-// To be continued ...
+After an hour, here's all the boards in their width, 13", 12.5", 12" and 11.5", and a 24" board for the base.
+
+<img src='./images/CubeBookcaseV2-After-X-Cut.jpg' width='250' />
+
+To build the boxes, I start to cut the rabbet like on the plan:
+
+<img src='./images/CubeBookcaseV2-RabbetJoint.png' />
+
+Okay, ready to do some real job:
+
+<img src='./images/CubeBookcaseV2-Build-Box.jpg' width='250' />
+
+And here's the base:
+
+<img src='./images/CubeBookcaseV2-Base.jpg' width='280' />
+
+To be continue ...
