@@ -54,10 +54,10 @@ And the top layer is even more simple:
 
 <img src='./images/CubeBookcaseV2-TopPlan.png' />
 
-The build out looks like this - only without paint:
+The build out looked like this - only without paint:
 
 <img src='./images/CubeBookcaseV2-TopBuild.png' width='250' />
 
-It has shorter vertical boards in the middle, and it doesn't need to form another groove for anything on top.
+It has shorter vertical boards in the middle, and it doesn't need to form another groove for anything on the top.
 
 To be continue ...
