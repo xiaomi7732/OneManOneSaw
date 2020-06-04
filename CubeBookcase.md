@@ -12,9 +12,9 @@ I plan to use 1/2" sande plywood to build it.
 
 ## Build Plan
 
-Download [BuildPlan.pdf](./pdfs/CubeBookcaseDrawingv12.pdf).
+Download [BuildPlan.pdf](./pdfs/CubeBookcaseDrawingv13.pdf).
 
-[<img src='./images/CubeBookcaseV2-Plan-Cover.png' width='220'>](./pdfs/CubeBookcaseDrawingv12.pdf)
+[<img src='./images/CubeBookcaseV2-Plan-Cover.png' width='220'>](./pdfs/CubeBookcaseDrawingv13.pdf)
 
 ## Start
 
