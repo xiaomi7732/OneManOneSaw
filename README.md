@@ -4,7 +4,7 @@ I am trying to use this repository to record my wood-working projects.
 
 ## Current Project
 
-* [Cube Bookcase](./CubeBookcase.md) - [Details](./CubeBookcase.md)
+* [Cube Bookcase](./CubeBookcase.md) - [Click here to see the build details](./CubeBookcase.md)
   * 3D Model
 
     [<img src='images/CubeBookcaseV2.png' width='250' />](https://a360.co/35g3FB4)
