@@ -40,18 +40,20 @@ And then:
 
 <img src='./images/WorkBenchV20.png' width='350' />
 
-Okay, in summary, here's some of the tweaks and why:
+Okay, in summary, here are some of the tweaks and why:
 
 ### Height
 
 * 24" is too low even for a short person like me. It is increased to 29" tall.
 
-### Aprons
+### Aprons or Apron
 
-* Apron on single side is more flexible
+* In my case, apron on single side seems more flexible:
   * I don't see myself working on two big piece at one time.
   * It leaves the possibilities to easy clamp on the other side.
   * I want to try and see which side works better for me.
 * On the other hand, the apron's put below the table top so that I will gain a little bit more vertical surface.
+
+### Mortises
 
 * To get back the stability the notches on the apron would provide, I add two mortises instead.
