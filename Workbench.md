@@ -34,7 +34,7 @@ And then, it becomes:
 
 And then:
 
-<img src='./images/WorkBenchV12.png' width='350' />
+<img src='./images/WorkbenchV12.png' width='350' />
 
 And then:
 
