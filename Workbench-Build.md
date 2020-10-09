@@ -42,18 +42,31 @@ And here's what I purchased from Home Depot:
 | TAX | | | $8.10
 | TOTAL | | | $89.1
 
-## Steps
+## Build
 
 ### Tabletop
 
-* I picked 12 out of the 15 studs, cut them approximately to 56 inches - 2 inches more than expected and layed them out side by side:
+<img src='images/WorkBench-Top-01.jpg' width='500'>
 
-// TODO: Add a picture.
-
-* Then, I draw some marks on parts that is uneven and planed them with a hand plane.
-
-// TODO: Add a picture.
+<img src='images/WorkBench-Top-03.jpg' width='500'>
 
 ### Legs
 
-// TODO: Add details here.
+<img src='images/WorkBench-Leg-01.jpg' width='500'>
+
+<img src='images/WorkBench-Leg-02.jpg' width='500'>
+
+### Putting together
+
+<img src='images/WorkBench-01.jpg' width='500'>
+
+<img src='images/WorkBench-02.jpg' width='500'>
+
+<img src='images/WorkBench-03.jpg' width='500'>
+
+<img src='images/WorkBench-04.jpg' width='500'>
+
+### Finish
+
+<img src='images/WorkBench-05.jpg' width='500'>
+
